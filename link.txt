@@ -1,0 +1,2 @@
+github :https://github.com/dwikyfebryan/Finalproject-hacktiv-prakerja
+netlify :dwikyfebryan.netlify.app

@@ -1,0 +1,148 @@
+.container-fluid {
+    background-color:#96B6C5;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10;}
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+    font-family: 'Dancing Script', cursive; }
+
+.nav-link{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Black Ops One', cursive; }
+        
+
+body{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Satisfy', cursive;
+    width: 100%;
+    text-align: center;}
+
+#home {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    padding-top: 40px;
+    background-color: #ADC4CE; }
+
+.bold{
+    font-weight: bold; }
+        
+#about{
+    background-color: #ADC4CE;
+    float: left;
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 22px;
+    width: 100%;}
+        
+#about > img {
+    float: left;
+    margin-left: 150px;}
+        
+#about > p {
+    text-align: left;
+    padding-left: 450px;}
+        
+#experiences {
+    background-color: #EEE0C9;
+    float: left;
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 22px;
+    width: 100%;}
+
+#experiences > img {
+    float: left;
+    margin-left: 150px;}
+        
+#experiences > p {
+    text-align: left;
+    padding-left: 450px;}
+
+#education {
+    background-color: #EEE0C9;
+    float: left;
+    padding: 20px;
+    padding-top: 30px;
+    font-size: 22px;
+    width: 100%;}
+        
+#education > img {
+    float: left;
+    margin-left: 150px;}
+
+#education > p {
+    text-align: left;
+    padding-left: 450px;}
+
+#skills {
+    background-color: #F1F0E8;
+    float: left;
+    padding: 20px;
+    padding-top: 30px;
+    font-size: 22px;
+    width: 100%;}
+       
+#skills > img {
+    float: left;
+    margin-left: 150px;}
+
+#skills > p {
+    text-align: left;
+    padding-left: 450px;}
+
+#interest {
+    background-color: #F1F0E8;
+    float: left;
+    padding: 20px;
+    padding-top: 30px;
+    font-size: 22px;
+    width: 100%;}
+            
+#interest > img {
+    float: left;
+    margin-left: 150px;}
+    
+#interest > p {
+    text-align: left;
+    padding-left: 450px;}
+
+        
+.all{
+    display: flex;
+    align-items: center;}
+
+.movie {
+    position:relative;
+    top: 80px;
+    right: 50px;}
+
+#award { background-color:#F1F0E8;}
+
+.sosmed{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    background-color: #F1F0E8;
+    font-size: 20px;
+
+}
+
+       
+            
+        
+
+
+
+
+
+
+
+
+
